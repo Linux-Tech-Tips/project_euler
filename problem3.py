@@ -10,9 +10,7 @@ def genNextPrime(primes):
     return primes
 
 p = [2, 3, 5, 7, 11, 13]
-#number = 600851475143
-#number = 215
-number = 664667864465
+number = 600851475143
 factors = []
 
 while True:
